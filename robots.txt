@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dfajardod.github.io/sitemap.xml
+Sitemap: https://dfajardod.github.io//sitemap.xml
